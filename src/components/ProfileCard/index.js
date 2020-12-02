@@ -6,7 +6,7 @@ const ProfileCard = () => {
       img:
         "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSbke5oTGiM8gcGT9GNrY5jB8jh1c5rbw9Kmg&usqp=CAU",
       name: "Sandeep",
-      designation: "Front-end Developer",
+      designation: "Front-end Developers Hore",
     },
     {
       img:
