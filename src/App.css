@@ -1,0 +1,158 @@
+.body {
+  padding: 4rem;
+  background-color: #004e8c;
+  text-align: center;
+  color: #edf3f6;
+}
+
+.heading {
+  font-size: 20px;
+  font-weight: 200;
+  font-style: normal;
+  color: #565b67;
+  font-style: oblique;
+}
+
+.table {
+  display: flex;
+  justify-content: space-between;
+  margin-left: 20%;
+  margin-right: 20%;
+}
+.fisrtline {
+  font-size: 55px;
+  font-weight: 800;
+}
+
+.secondline {
+  font-size: 20px;
+  padding-top: 5%;
+  padding-bottom: 5%;
+
+  color: #b4bded;
+  margin-top: 1px;
+  margin-bottom: 1px;
+}
+.formating {
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.button {
+  margin-left: 350px;
+  margin-top: 20px;
+  margin-bottom: 5px;
+  padding: 10px 20px 10px 20px;
+  background-color: #fff;
+  color: #145c95;
+  border-radius: 10px;
+  border: 1px solid;
+  cursor: pointer;
+}
+
+.profile-pic {
+  height: 70px;
+  width: 70px;
+  border-radius: 70px;
+}
+.profile-name {
+  font-size: 30px;
+  font-weight: 600;
+}
+.description {
+  font-size: 20px;
+  font-weight: 500;
+}
+.profile-view {
+  display: flex;
+  margin: 1rem;
+}
+.ml-4 {
+  margin-left: 5rem;
+  padding-top: 1px;
+}
+
+.date {
+  font-size: 16px;
+  font-weight: 600;
+  color: #b9bcc3;
+}
+
+.further {
+  font-size: 16px;
+  font-weight: 400;
+  color: #5a52eb;
+}
+
+.abc {
+  padding: 1rem;
+}
+.container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.profilelook {
+  /* display: flex;
+  justify-content: space-between;
+  padding: 1rem; */
+  margin: 10px;
+  border-radius: 50px;
+  width: 33%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.topic-img {
+  height: 200px;
+  width: 100%;
+
+  border-radius: 30px;
+}
+
+.type-format {
+  padding: 20px;
+  color: #706aef;
+  font-size: 20px;
+  font-weight: 600;
+  padding-top: 2px;
+  padding-bottom: 1px;
+}
+
+.topic {
+  padding: 20px;
+  margin-top: 1px;
+  color: #1a2132;
+  font-size: 20px;
+  font: bold;
+  padding-bottom: 2px;
+  font-weight: 500;
+}
+
+.details {
+  padding: 20px;
+  font-size: 20px;
+  font-weight: 100;
+  color: #b9bcc3;
+}
+
+.author {
+  height: 50px;
+  width: 50px;
+  border-radius: 30px;
+}
+
+.name {
+  font-size: 15px;
+  font-weight: 400;
+}
+
+.duration {
+  font-size: 20px;
+  font-weight: 100;
+  color: #b9bcc3;
+}
+
+.bcd {
+  display: flex;
+  justify-content: space-between;
+}
